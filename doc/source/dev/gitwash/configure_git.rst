@@ -1,4 +1,5 @@
 .. _configure-git:
+this is just a test
 
 =================
 Git configuration
